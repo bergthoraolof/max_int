@@ -8,3 +8,4 @@ while num_int > 0:      #See whether the integer is positive
     num_int = int(input("Input a number: "))      #Input an integer
    
 print("The maximum is", max_int)  #print maximum  
+
